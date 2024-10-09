@@ -76,15 +76,6 @@ VIDEOMODE_COMMAND : ["videomode"]
 MAINTENANCE_COMMAND : ["maintenance", "maintain"]
 LOGGER_COMMAND : ["logger"]
 
-#Heroku
-GETLOG_COMMAND : ["get_log", "logs"]
-GETVAR_COMMAND : ["get_var", "getvar"]
-DELVAR_COMMAND : ["del_var", "delvar"]
-SETVAR_COMMAND : ["set_var", "setvar"]
-USAGE_COMMAND : ["usage"]
-VARS_COMMAND : ["vars", "config"]
-
-
 #Basic Bot Commands
 UPDATE_COMMAND : ["update", "gitpull", "up"]
 RESTART_COMMAND : ["restart"]

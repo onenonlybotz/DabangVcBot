@@ -344,8 +344,8 @@ async def about_callback(client: Client, callback_query: CallbackQuery):
             ),
         ],
         [
-            InlineKeyboardButton(text="🎁ɪɴsᴛᴀ🎁", url=f"instagram.com/the.vip.boy"),
-            InlineKeyboardButton(text="💲ʏᴏᴜᴛᴜʙᴇ💲", url=f"youtube.com/@THE_VIP_BOY"),
+            InlineKeyboardButton(text="🎁INSTA🎁", url=f"instagram.com/aadityagangster"),
+            InlineKeyboardButton(text="💲EARN MONEY💲", url=f"https://t.me/+TMdrNs1jLdI5YTY1"),
         ],
         [
             InlineKeyboardButton(text="🔙 Back", callback_data="about")
@@ -489,7 +489,7 @@ async def back_button_callback(client: Client, callback_query: CallbackQuery):
             InlineKeyboardButton(text="🎭ᴏᴡɴᴇʀ🎭", user_id=config.OWNER_ID[0]),
             InlineKeyboardButton(
                 text="🌱ɢɪᴛʜᴜʙ🌱",
-                url="https://github.com/THE-VIP-BOY-OP",
+                url="https://t.me/whoisaaditya",
             ),
         ],
         [
